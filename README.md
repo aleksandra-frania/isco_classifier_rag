@@ -23,9 +23,9 @@ It classifies short job descriptions (e.g. written by children about their paren
 # 📁 Project Structure
 
 ```
-project_root/
+isco_classifier_rag/
 │
-├── data/                  (🔐 encrypted in Git)
+├── data/                 
 │   ├── processed/
 │   ├── prompts/
 │   │   └── prompt.md
@@ -37,20 +37,15 @@ project_root/
 │       ├── isco08_de_fr.csv
 │       └── l1_schools_2025.csv
 │
-├── output/                (🔐 encrypted in Git)
-│   ├── classification_results_fixed.csv
-│   └── classification_results_raw.csv
+├── output/               
 │
 ├── src/
 │   └── isco_classifier/
-│       ├── __init__.py
-│       ├── config.py
 │       ├── document_stores.py
 │       ├── functions.py
 │       ├── main.py
 │       └── test.py
 │
-├── .gitattributes
 ├── README.md
 ├── requirements.txt
 ```
