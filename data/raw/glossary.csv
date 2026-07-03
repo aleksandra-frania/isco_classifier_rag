@@ -1,0 +1,108 @@
+context,text
+CePAS,"The Psychosocial and Scholastic Assistance Centre (Centre psycho-social et d’accompagnement scolaire - CePAS) is aimed at adolescents, parents, families and professionals in the psychosocial and educational network.
+
+The CePAS coordinates the activities of the Psychosocial and Scholastic Assistance Services in secondary schools and actively works with the vocational guidance department of the National Employment Agency (ADEM).
+
+The roles of CePAS include:
+
+   provide psycho-pedagogical counselling for pupils in post-primary education and to assist in the educational guidance of pupils in the 6th year of primary education;
+    facilitate the transition from school to the world of work;
+    in general, advise parents, pupils and institutions and persons responsible for the training of pupils, insofar as the psychological, psycho-emotional and psycho-social aspects of the pupils' learning processes are concerned;
+    coordinate the organisation of the School Psychology and Guidance Services with the directors' colleges and with the college of primary school inspectors, as far as they are concerned, and coordinate the activities of services;
+    award pupils post-primary subsidies from the State."
+CHdN,Centre Hospitalier du Nord
+CHL, Centre Hospitalier de Luxembourg
+Foyer,Luxembourgish insurance company
+Foyers d'accueil,residential care facilities
+"Mère au foyer, père au foyer, femme au foyer, homme au foyer","Stay at home mom or dad. This is not a job, hence it should be considered as unemployed."
+"Mère à domicile, père à domicile, femme à domicile, homme à domicile","Stay at home mom or dad. This is not a job, hence it should be considered as unemployed."
+"Hausfrau, Hausmann, Hausfra","Stay at home mum or dad. This is not a job, hence it should be considered as unemployed. It may come described as only 'at home' or 'zu Hause', so if there is no specific indication that this person works at someone else's home and does cleaning or housekeeping, it should be considered as unemployment."
+Hëllef doheem,"Home help service providing assistance with daily living activities for elderly or disabled persons. It includes help with personal care, changing bandages, household tasks, meal preparation, and companionship to support individuals in maintaining their independence at home."
+CCSS,Centre Commun de la Sécurité Sociale
+CFL,"Société Nationale des Chemins de Fer luxembourgeoise, could come misspelled as ZFL"
+CNS,Caisse Nationale de Santé
+RTL,Radio Télévision Luxembourg
+ADEM,"Agence pour le Développement de l'Emploi, it may come misspelled as ADAM."
+Cactus,Supermarket chain
+APEHM,"Association des Parents d'Enfants Handicapés du Luxembourg-Membres"
+ArcelorMittal,Steel manufacturing corporation
+ACL,"Automobile Club du Luxembourg, a motoring organization offering roadside assistance, insurance services, and travel-related services to its members."
+Ponts et Chaussées,"The Department of Public Works (Ponts et Chaussées) is responsible for the construction, maintenance, and management of public infrastructure in Luxembourg, including roads, bridges, and waterways. "
+Dupont de Nemours,"Multinational conglomerate company specializing in chemicals, materials, and agricultural products"
+Creos,"Energy company in Luxembourg responsible for the distribution of electricity and natural gas."
+Lamesch PreZero,"A company specializing in waste management and recycling services in Luxembourg."
+Spuerkeess/BCEE,"Banque et Caisse d'Épargne de l'État, a major public bank in Luxembourg."
+Bétons Feidt,"A construction materials company in Luxembourg specializing in concrete and related products."
+Fischer,Luxembourgish bakery
+Cargolux,"A Luxembourg-based cargo airline specializing in air freight services worldwide."
+Axa,Luxembourgish insurance company
+Bofrost,Company specializing in frozen foods
+P&T,"Postes et Télécommunications, the national postal and telecommunications service provider in Luxembourg."
+Belle Etoile,Shopping mall located in Luxembourg City
+Brink's Security,Security supplier in Luxembourg
+CDCL,Compagnie de Construction Luxembourgeoise
+Kitas,Kindertagesstätten (daycare centers)
+Stëmm vun der Strooss,"A Luxembourgish non-profit organization dedicated to supporting homeless individuals and advocating for their rights. The organization provides various services, including shelter, food, and social support, aiming to improve the living conditions of homeless people in Luxembourg."
+CHNP,Centre Hospitalier Neuro-Psychiatrique
+CSSF,Commission de Surveillance du Secteur Financier
+DHL,International courier and logistics company
+DPD,International parcel delivery service
+DKV,Luxembourgish health insurance company
+ATM,Assistant technique médical
+CNFL,Conseil National des Femmes de Luxembourg
+G4S,Security services company
+Maison relais,"In Luxembourg, a Maison relais is a state-regulated childcare and educational care service that looks after children outside school hours. Key points:
+- For children roughly 0–12 years old
+- Operates mainly before and after school and during school holidays
+- Provides supervised care, meals, and structured activities
+- Focus on education, social development, and well-being
+- Staffed by qualified educators
+- Can be public, communal, or non-profit, sometimes private
+- Integrated into the national non-formal education system"
+Hartz IV/Hartz 4,"A German social welfare program providing unemployment benefits and social assistance to long-term unemployed individuals and low-income families."
+homme de ménage,Male cleaning person
+Hornbach,"A German home improvement and DIY store chain with locations in Luxembourg, offering a wide range of products for home renovation, gardening, and construction."
+Goodyear,"A tire manufacturing company, may come in various misspellings such as Goodjare, Gudyear, and so on."
+Joffer,"Luxembourgish word for a trained childcare worker who looks after and supports young children, typically in early childhood education or care settings. It is also used to refer to a primary school teacher."
+Cycle scolaire,"A term used in Luxembourg to refer to the different stages of the education system. It typically includes:
+- Cycle 1: Early childhood education (ages 3-4)
+- Cycle 2-4: Primary education (ages 5-11)"
+Luxair,Luxembourgish airline
+Maçon,"Bricklayer. It often comes misspelled as macon, masson or mason. It should be distinguished from the English word 'mason', which refers to a stonemason. If the rest of the input is not in English, use 'maçon'. If the rest of the input is in English, use 'stonemason'."
+Nounou,French term for a nanny or babysitter
+Oberweis,Luxembourgish bakery and confectionery company
+OGBL,"(Onofhängege Gewerkschaftsbond Lëtzebuerg) is Luxembourg’s largest trade union, representing workers’ rights and interests across multiple sectors."
+Q8,Fuel and energy company
+Lalux,Luxembourgish insurance company
+La Provençale,"Luxembourg-based company specializing in fresh and frozen baked goods, particularly bread, pastries, and regional specialties, and also provides wholesale deliveries to schools, restaurants, and other businesses."
+CGDIS,"Corps grand-ducal d'incendie et de secours, the national fire and rescue service of Luxembourg."
+femme/homme de charge,Housekeeper
+Housewife,"Stay at home mom, not a job description, cannot be coded"
+PwC,"Multinational professional services network offering audit, assurance, consulting, and tax services."
+Félix Giorgetti,Luxembourgish construction company
+Emile Weber,"Luxembourgish provider of mobility and travel services — operating buses, coaches, taxis, travel agencies and other transport solutions across Luxembourg and the Greater Region."
+Sales Lentz,"Luxembourg transport company that operates one of the country’s largest private fleets to provide public bus services, school transport, shuttles, group travel and customised mobility solutions throughout Luxembourg and the Greater Region."
+CHEM,Centre Hospitalier Émile‑Mayrisch
+Gemeng,Luxembourgish term for "municipality" or "commune" or "Gemeinde"
+Kichechef,"Luxembourgish store chain specializing in kitchenware, cookware, and household items. This term is not usually used to describe a kitchen chef, unless the context clearly indicates that meaning."
+HPPA,Homes Pour Personnes Agées
+SNCT,Société Nationale de Contrôle Technique
+Barman/Barmann,French/German term for bartender
+5 à Sec,Dry cleaning and laundry service chain
+Gruiste/Grutier,French term for crane operator
+Superdréckskescht,"Luxembourg state-supported initiative that manages and promotes sustainable waste management, including collection, disposal and recycling of problematic waste and providing ecological waste-advice and awareness services for citizens and businesses to support a circular economy. This term may come heavily misspelled, e.g. Siperdreckkescjt."
+Butzemillen,A Luxembourgish daycare center
+Affekot,"Luxembourgish term for 'lawyer'. It may come misspelled in Luxembourgish as afekot, or even in French as avoquat(e)."
+Chantier,"French term for 'construction site' or 'worksite'. It may come misspelled as shantier or chantie or similar."
+Pensioun,"Luxembourgish term for 'retirement'. It may come spelled as pension, or misspelled as pensjon or penzion. It does not refer to a 'pension/guesthouse' as in accommodation and should most likely be considered as unemployed."
+Vormular,"Misspelling of the German word 'Formular', meaning 'form' or 'document'."
+Botzfra,"Luxembourgish term for cleaning lady, may come misspelled as botsfra or bottfra."
+Gartner,"Misspelled Luxembourgish and German term for 'gardener'. It may come misspelled as gartener or gartnter or similar."
+Gouvernante,"French term for 'housekeeper'"
+Housekeeper,"A person employed to manage household affairs, including cleaning, cooking, and other domestic tasks. It does NOT refer to descriptions such as 'hausfra', 'femme/homme au foyer', mère/père à domicile', 'zu Hause', and similar, which indicate stay-at-home parents and should be considered as unemployed."
+
+
+
+
+
+

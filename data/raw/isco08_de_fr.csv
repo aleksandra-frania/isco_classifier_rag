@@ -1,0 +1,1185 @@
+ISCO 08 Code,ISEI value,Title DE/FR
+0000,53.0,"DE: Angehörige der regulären Streitkräfte
+FR: Professions militaires"
+0100,65.0,"DE: Offiziere in regulären Streitkräften
+FR: Officiers des forces armées"
+0110,65.0,"DE: Offiziere in regulären Streitkräften
+FR: Officiers des forces armées"
+0200,53.0,"DE: Unteroffiziere in regulären Streitkräften
+FR: Sous-officiers des forces armées"
+0210,53.0,"DE: Unteroffiziere in regulären Streitkräften
+FR: Sous-officiers des forces armées"
+0300,30.0,"DE: Angehörige der regulären Streitkräfte in sonstigen Rängen
+FR: Autres membres des forces armées"
+0310,30.0,"DE: Angehörige der regulären Streitkräfte in sonstigen Rängen
+FR: Autres membres des forces armées"
+1000,62.0,"DE: Führungskräfte
+FR: Directeurs, cadres de direction et gérants"
+1100,69.0,"DE: Geschäftsführer, Vorstände, leitende Verwaltungsbedienstete und Angehörige gesetzgebender Körperschaften
+FR: Directeurs généraux, cadres supérieurs et membres de l’exécutif et des corps législatifs"
+1110,68.0,"DE: Angehörige gesetzgebender Körperschaften und leitende Verwaltungsbedienstete
+FR: Membres des corps législatifs et cadres supérieurs de l’administration publique"
+1111,66.0,"DE: Angehörige gesetzgebender Körperschaften
+FR: Membres des corps législatifs"
+1112,70.0,"DE: Leitende Verwaltungsbedienstete
+FR: Cadres supérieurs de l’administration publique"
+1113,57.0,"DE: Traditionelle Dorf- und Stammeshäuptlinge
+FR: Chefs traditionnels et chefs de village"
+1114,68.0,"DE: Leitende Bedienstete von Interessenorganisationen
+FR: Dirigeants et cadres supérieurs d’organisations spécialisées"
+1120,70.0,"DE: Geschäftsführer und Vorstände
+FR: Directeurs généraux d’entreprise"
+1200,68.0,"DE: Führungskräfte im kaufmännischen Bereich
+FR: Directeurs de services administratifs et commerciaux"
+1210,68.0,"DE: Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen
+FR: Directeurs de services administratifs"
+1211,68.0,"DE: Führungskräfte im Bereich Finanzen
+FR: Directeurs et cadres de direction, services financiers"
+1212,68.0,"DE: Führungskräfte im Personalwesen
+FR: Directeurs et cadres de direction, ressources humaines"
+1213,68.0,"DE: Führungskräfte in Unternehmenspolitik und -planung
+FR: Directeurs et cadres de direction, stratégie et planifications"
+1219,63.0,"DE: Führungskräfte in der betrieblichen Verwaltung und in unternehmensbezogenen Dienstleistungen, anderweitig nicht genannt
+FR: Directeurs des services administratifs non classés ailleurs"
+1220,68.0,"DE: Führungskräfte in Vertrieb, Marketing und Entwicklung
+FR: Directeurs et cadres de direction, ventes, commercialisation et développement"
+1221,66.0,"DE: Führungskräfte in Vertrieb und Marketing
+FR: Directeurs et cadres de direction, ventes et commercialisation"
+1222,67.0,"DE: Führungskräfte in Werbung und Öffentlichkeitsarbeit
+FR: Directeurs et cadres de direction, publicité et relations publiques"
+1223,79.0,"DE: Führungskräfte in Forschung und Entwicklung
+FR: Directeurs et cadres de direction, recherche-développement"
+1300,60.0,"DE: Führungskräfte in der Produktion und bei speziellen Dienstleistungen
+FR: Directeurs et cadres de direction, production et services spécialisés"
+1310,49.0,"DE: Führungskräfte in der Produktion in Land- und Forstwirtschaft und Fischerei
+FR: Directeurs et cadres de direction, agriculture, sylviculture et pêche"
+1311,60.0,"DE: Führungskräfte in der Produktion in Land- und Forstwirtschaft
+FR: Directeurs et cadres de direction, agriculture et sylviculture"
+1312,60.0,"DE: Führungskräfte in der Produktion in Aquakultur und Fischerei
+FR: Directeurs et cadres de direction, aquaculture et pêche"
+1320,60.0,"DE: Führungskräfte in der Produktion bei der Herstellung von Waren, im Bergbau und im Bau sowie in der Logistik
+FR: Directeurs et cadres de direction, industries manufacturières, mines, bâtiment et distribution"
+1321,63.0,"DE: Führungskräfte in der Produktion bei der Herstellung von Waren
+FR: Directeurs et cadres de direction, industrie manufacturière"
+1322,60.0,"DE: Führungskräfte in der Produktion im Bergbau
+FR: Directeurs et cadres de direction, mines"
+1323,59.0,"DE: Führungskräfte in der Produktion im Bau
+FR: Directeurs et cadres de direction, bâtiment"
+1324,57.0,"DE: Führungskräfte in der Beschaffung, Logistik und in verwandten Bereichen
+FR: Directeurs et cadres de direction, approvisionnement, distribution et assimilés"
+1330,77.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen im Bereich Informations- und Kommunikationstechnologie
+FR: Directeurs et cadres de direction, technologies de l’information et des communications"
+1340,59.0,"DE: Führungskräfte in der Erbringung von speziellen Dienstleistungen
+FR: Cadres de direction, services spécialisés"
+1341,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen der Kinderbetreuung
+FR: Cadres de direction, garde d’enfants"
+1342,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen im Gesundheitswesen
+FR: Cadres de direction, services de santé"
+1343,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen der Altenbetreuung
+FR: Cadres de direction, services aux personnes âgées"
+1344,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen der Sozialfürsorge
+FR: Cadres de direction, services sociaux"
+1345,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen des Bildungswesens
+FR: Cadres de direction, éducation"
+1346,59.0,"DE: Führungskräfte auf Filialebene in der Erbringung von Finanz- und Versicherungsdienstleistungen
+FR: Directeurs et cadres de direction, succursales de banque, services financiers et assurances"
+1349,59.0,"DE: Führungskräfte in der Erbringung von speziellen Dienstleistungen, anderweitig nicht genannt
+FR: Autres cadres de direction, services spécialisés non classés ailleurs"
+1400,53.0,"DE: Führungskräfte in Hotels und Restaurants, im Handel und in der Erbringung sonstiger Dienstleistungen
+FR: Directeurs et gérants de l’hôtellerie, la restauration, le commerce et autres services"
+1410,43.0,"DE: Führungskräfte in Hotels und Restaurants
+FR: Directeurs et gérants, hôtellerie et restauration"
+1411,43.0,"DE: Führungskräfte in Hotels
+FR: Directeurs et gérants, hôtellerie"
+1412,47.0,"DE: Führungskräfte in Restaurants
+FR: Directeurs et gérants, restauration"
+1420,56.0,"DE: Führungskräfte in Groß- und Einzelhandel
+FR: Directeurs et gérants, commerce de détail et de gros"
+1430,59.0,"DE: Führungskräfte in der Erbringung sonstiger Dienstleistungen
+FR: Autres directeurs et gérants"
+1431,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen im Bereich Sport, Erholung und Kultur
+FR: Directeurs et gérants, centres sportifs, centres de loisirs et centres culturels"
+1439,59.0,"DE: Führungskräfte in der Erbringung von Dienstleistungen, anderweitig nicht genannt
+FR: Directeurs et gérants, services non classés ailleurs"
+2000,65.0,"DE: Akademische Berufe
+FR: Professions intellectuelles et scientifiques"
+2100,69.0,"DE: Naturwissenschaftler, Mathematiker und Ingenieure
+FR: Spécialistes des sciences techniques"
+2110,77.0,"DE: Physiker, Chemiker, Geologen und verwandte Berufe
+FR: Physiciens, chimistes et assimilés"
+2111,79.0,"DE: Physiker und Astronomen
+FR: Physiciens et astronomes"
+2112,70.0,"DE: Meteorologen
+FR: Météorologues"
+2113,76.0,"DE: Chemiker
+FR: Chimistes"
+2114,80.0,"DE: Geologen und Geophysiker
+FR: Géologues et géophysiciens"
+2120,73.0,"DE: Mathematiker, Versicherungsmathematiker und Statistiker
+FR: Mathématiciens, actuaires et statisticiens"
+2130,67.0,"DE: Biowissenschaftler
+FR: Spécialistes des sciences de la vie"
+2131,71.0,"DE: Biologen, Botaniker, Zoologen und verwandte Berufe
+FR: Biologistes, botanistes, zoologistes et assimilés"
+2132,64.0,"DE: Agrar-, Forst- und Fischereiwissenschaftler und -berater
+FR: Agronomes et assimilés"
+2133,67.0,"DE: Umweltwissenschaftler
+FR: Spécialistes de la protection de l’environnement"
+2140,72.0,"DE: Ingenieurwissenschaftler (ohne Elektrotechnik, Elektronik und Telekommunikation)
+FR: Spécialistes, sciences techniques (sauf électrotechniques)"
+2141,65.0,"DE: Wirtschafts- und Produktionsingenieure
+FR: Spécialistes, sciences techniques de la production et de l’industrie"
+2142,76.0,"DE: Bauingenieure
+FR: Ingénieurs civils"
+2143,72.0,"DE: Umweltschutzingenieure
+FR: Ingénieurs écologistes"
+2144,69.0,"DE: Maschinenbauingenieure
+FR: Ingénieurs mécaniciens"
+2145,71.0,"DE: Chemieingenieure
+FR: Ingénieurs chimistes"
+2146,74.0,"DE: Bergbauingenieure, Metallurgen und verwandte Berufe
+FR: Ingénieurs des mines, ingénieurs métallurgistes et assimilés"
+2149,70.0,"DE: Ingenieure, anderweitig nicht genannt
+FR: Spécialistes, sciences techniques non classés ailleurs"
+2150,74.0,"DE: Ingenieure in den Bereichen Elektrotechnik, Elektronik und Telekommunikationstechnik
+FR: Ingénieurs de l’électrotechnique"
+2151,74.0,"DE: Ingenieure im Bereich Elektrotechnik
+FR: Ingénieurs électriciens"
+2152,75.0,"DE: Ingenieure im Bereich Elektronik
+FR: Ingénieurs électroniciens"
+2153,74.0,"DE: Ingenieure im Bereich Telekommunikationstechnik
+FR: Spécialistes des télécommunications"
+2160,60.0,"DE: Architekten, Raum-, Stadt- und Verkehrsplaner, Vermessungsingenieure und Designer
+FR: Architectes, urbanistes, géomètres et concepteurs"
+2161,71.0,"DE: Architekten
+FR: Architectes, bâtiment"
+2162,60.0,"DE: Landschaftsarchitekten
+FR: Architectes paysagistes"
+2163,51.0,"DE: Produkt- und Textildesigner
+FR: Concepteurs modélistes de produits et de vêtements"
+2164,60.0,"DE: Raum-, Stadt- und Verkehrsplaner
+FR: Urbanistes et ingénieurs de la circulation routière"
+2165,67.0,"DE: Kartografen und Vermessungsingenieure
+FR: Cartographes et géomètres"
+2166,60.0,"DE: Grafik- und Multimediadesigner
+FR: Concepteurs graphiques, multimédia – graphistes"
+2200,66.0,"DE: Akademische und verwandte Gesundheitsberufe
+FR: Spécialistes de la santé"
+2210,89.0,"DE: Ärzte
+FR: Médecins"
+2211,89.0,"DE: Allgemeinärzte
+FR: Médecins généralistes"
+2212,89.0,"DE: Fachärzte
+FR: Médecins spécialistes"
+2220,54.0,"DE: Akademische und vergleichbare Krankenpflege- und Geburtshilfefachkräfte
+FR: Cadres infirmiers et sages-femmes"
+2221,42.0,"DE: Akademische und vergleichbare Krankenpflegefachkräfte
+FR: Cadres infirmiers"
+2222,52.0,"DE: Akademische und vergleichbare Geburtshilfefachkräfte
+FR: Sages-femmes"
+2230,49.0,"DE: Akademische und vergleichbare Fachkräfte in der traditionellen und komplementären Medizin
+FR: Spécialistes des médecines traditionnelles et des médecines complémentaires"
+2240,51.0,"DE: Feldscher und vergleichbare paramedizinische Praktiker
+FR: Praticiens paramédicaux"
+2250,71.0,"DE: Tierärzte
+FR: Vétérinaires"
+2260,66.0,"DE: Sonstige akademische und verwandte Gesundheitsberufe
+FR: Autres spécialistes des professions de la santé"
+2261,86.0,"DE: Zahnärzte
+FR: Dentistes"
+2262,69.0,"DE: Apotheker
+FR: Pharmaciens"
+2263,66.0,"DE: Akademische und vergleichbare Fachkräfte in den Bereichen Umwelt- und Arbeitsmedizin sowie Hygiene
+FR: Spécialistes de la salubrité de l’environnement, de l’hygiène et de la santé au travail"
+2264,55.0,"DE: Physiotherapeuten
+FR: Physiothérapeutes"
+2265,53.0,"DE: Diätologen und Ernährungsberater
+FR: Diététiciens et spécialistes de la nutrition"
+2266,51.0,"DE: Audiologen und Sprachtherapeuten
+FR: Audiologistes et orthophonistes"
+2267,58.0,"DE: Optometristen und Orthoptisten
+FR: Optométristes"
+2269,64.0,"DE: Akademische und verwandte Gesundheitsberufe, anderweitig nicht genannt
+FR: Spécialistes de la santé non classés ailleurs"
+2300,63.0,"DE: Lehrkräfte
+FR: Spécialistes de l’enseignement"
+2310,76.0,"DE: Universitäts- und Hochschullehrer
+FR: Professeurs d’université et d’établissements d’enseignement supérieur"
+2320,65.0,"DE: Lehrkräfte im Bereich Berufsbildung
+FR: Professeurs, enseignement technique et professionnel"
+2330,71.0,"DE: Lehrkräfte im Sekundarbereich
+FR: Professeurs, enseignement secondaire"
+2340,57.0,"DE: Lehrkräfte im Primar- und Vorschulbereich
+FR: Instituteurs, enseignement primaire et éducateurs de la petite enfance"
+2341,61.0,"DE: Lehrkräfte im Primarbereich
+FR: Instituteurs, enseignement primaire"
+2342,47.0,"DE: Lehrkräfte und Erzieher im Vorschulbereich
+FR: Éducateurs de la petite enfance"
+2350,56.0,"DE: Sonstige Lehrkräfte
+FR: Autres spécialistes de l’enseignement"
+2351,67.0,"DE: Pädagogik- und Didaktikspezialisten
+FR: Spécialistes des méthodes d’enseignement"
+2352,58.0,"DE: Lehrkräfte im Bereich Sonderpädagogik
+FR: Enseignants, éducation spécialisée"
+2353,54.0,"DE: Sonstige Sprachlehrer
+FR: Autres professeurs de langues"
+2354,54.0,"DE: Sonstige Musiklehrer
+FR: Autres professeurs de musique"
+2355,54.0,"DE: Sonstige Kunstlehrer
+FR: Autres professeurs de disciplines artistiques"
+2356,54.0,"DE: Ausbilder im Bereich Informationstechnologie
+FR: Formateurs en technologies de l’information"
+2359,54.0,"DE: Lehrkräfte, anderweitig nicht genannt
+FR: Spécialistes de l’enseignement, non classés ailleurs"
+2400,64.0,"DE: Betriebswirte und vergleichbare akademische Berufe
+FR: Spécialistes en administration d’entreprises"
+2410,66.0,"DE: Akademische und vergleichbare Fachkräfte im Bereich Finanzen
+FR: Spécialistes en finances"
+2411,66.0,"DE: Wirtschaftsprüfer, Steuerberater und verwandte Berufe
+FR: Cadres comptables"
+2412,66.0,"DE: Finanz- und Anlageberater
+FR: Conseillers en finances et investissements"
+2413,66.0,"DE: Finanzanalysten
+FR: Analystes financiers"
+2420,59.0,"DE: Akademische und vergleichbare Fachkräfte in der betrieblichen Verwaltung
+FR: Spécialistes des fonctions administratives"
+2421,59.0,"DE: Akademische und vergleichbare Fachkräfte im Bereich Management- und Organisationsanalyse
+FR: Analystes, gestion et organisation"
+2422,62.0,"DE: Akademische und vergleichbare Fachkräfte in der strategischen Planung in Politik und Wirtschaft
+FR: Spécialistes, administration et politiques"
+2423,58.0,"DE: Berufsberater und -analytiker und akademische und vergleichbare Personalfachleute
+FR: Spécialistes, ressources humaines et évolution de carrière"
+2424,59.0,"DE: Fachkräfte in Personalschulung und -entwicklung
+FR: Spécialistes de la formation du personnel"
+2430,64.0,"DE: Akademische und vergleichbare Fachkräfte in Vertrieb, Marketing und Öffentlichkeitsarbeit
+FR: Spécialistes des ventes, de la commercialisation et des relations publiques"
+2431,64.0,"DE: Akademische und vergleichbare Fachkräfte in Werbung und Marketing
+FR: Spécialistes de la publicité et de la commercialisation"
+2432,64.0,"DE: Akademische und vergleichbare Fachkräfte in der Öffentlichkeitsarbeit
+FR: Spécialistes des relations publiques"
+2433,64.0,"DE: Akademische und vergleichbare Fachkräfte im Bereich Vertrieb (Technik und Medizin, ohne Informations- und Kommunikationstechnologie)
+FR: Spécialistes des ventes, secteurs médical et technique (à l’exception des TIC)"
+2434,64.0,"DE: Akademische und vergleichbare Fachkräfte im Vertrieb von Informations- und Kommunikationstechnologie
+FR: Spécialistes des ventes, des technologies de l’information et des communications"
+2500,69.0,"DE: Akademische und vergleichbare Fachkräfte in der Informations- und Kommunikationstechnologie
+FR: Spécialistes des technologies de l’information et des communications"
+2510,70.0,"DE: Entwickler und Analytiker von Software und Anwendungen
+FR: Concepteurs et analystes de logiciels et de multimédia"
+2511,70.0,"DE: Systemanalytiker
+FR: Analystes de systèmes"
+2512,70.0,"DE: Softwareentwickler
+FR: Concepteurs de logiciels"
+2513,70.0,"DE: Web- und Multimediaentwickler
+FR: Concepteurs de sites internet et de multimédia"
+2514,70.0,"DE: Anwendungsprogrammierer
+FR: Programmeurs d’applications"
+2519,70.0,"DE: Entwickler und Analytiker von Software und Anwendungen, anderweitig nicht genannt
+FR: Concepteurs et analystes de logiciels, et concepteurs de multimédia non classés ailleurs"
+2520,68.0,"DE: Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke
+FR: Spécialistes des bases de données et des réseaux d’ordinateurs"
+2521,68.0,"DE: Datenbankentwickler und -administratoren
+FR: Spécialistes des bases de données"
+2522,68.0,"DE: Systemadministratoren
+FR: Administrateurs de systèmes"
+2523,68.0,"DE: Akademische und vergleichbare Fachkräfte für Computernetzwerke
+FR: Spécialistes des réseaux d’ordinateurs"
+2529,68.0,"DE: Akademische und vergleichbare Fachkräfte für Datenbanken und Netzwerke, anderweitig nicht genannt
+FR: Spécialistes des bases de données et des réseaux d’ordinateurs non classés ailleurs"
+2600,66.0,"DE: Juristen, Sozialwissenschaftler und Kulturberufe
+FR: Spécialistes de la justice, des sciences sociales et de la culture"
+2610,81.0,"DE: Juristen
+FR: Juristes"
+2611,85.0,"DE: Anwälte
+FR: Avocats"
+2612,88.0,"DE: Richter
+FR: Magistrats"
+2619,72.0,"DE: Juristen, anderweitig nicht genannt
+FR: Juristes non classés ailleurs"
+2620,55.0,"DE: Archiv-, Bibliotheks- und Museumswissenschaftler
+FR: Archivistes, bibliothécaires, documentalistes et assimilés"
+2621,55.0,"DE: Archiv- und Museumswissenschaftler
+FR: Archivistes paléographes et conservateurs de musée"
+2622,55.0,"DE: Bibliothekswissenschaftler und verwandte Informationswissenschaftler
+FR: Bibliothécaires, documentalistes et professions assimilées"
+2630,65.0,"DE: Sozialwissenschaftler, Geistliche und Seelsorger
+FR: Spécialistes des sciences sociales et du clergé"
+2631,72.0,"DE: Volkswirtschaftler
+FR: Économistes"
+2632,75.0,"DE: Soziologen, Anthropologen und verwandte Wissenschaftler
+FR: Sociologues, anthropologues et assimilés"
+2633,76.0,"DE: Philosophen, Historiker und Politologen
+FR: Philosophes, historiens et spécialistes des sciences politiques"
+2634,74.0,"DE: Psychologen
+FR: Psychologues"
+2635,59.0,"DE: Sozialarbeiter
+FR: Spécialistes du travail social"
+2636,53.0,"DE: Geistliche Seelsorger
+FR: Ministres des cultes"
+2640,65.0,"DE: Autoren, Journalisten und Linguisten
+FR: Auteurs, journalistes et linguistes"
+2641,65.0,"DE: Autoren und verwandte schriftstellerische Berufe
+FR: Auteurs et autres écrivains"
+2642,65.0,"DE: Journalisten
+FR: Journalistes"
+2643,68.0,"DE: Übersetzer, Dolmetscher und andere Linguisten
+FR: Traducteurs, interprètes et linguistes"
+2650,53.0,"DE: Bildende und darstellende Künstler
+FR: Artistes créateurs et exécutants"
+2651,51.0,"DE: Bildende Künstler
+FR: Artistes plasticiens"
+2652,50.0,"DE: Musiker, Sänger und Komponisten
+FR: Compositeurs, musiciens et chanteurs"
+2653,53.0,"DE: Tänzer und Choreografen
+FR: Danseurs et chorégraphes"
+2654,63.0,"DE: Regisseure und Produzenten im Film- und Bühnenbereich sowie in verwandten Bereichen
+FR: Metteurs en scène de cinéma, de théâtre et d’autres spectacles"
+2655,64.0,"DE: Schauspieler
+FR: Acteurs"
+2656,47.0,"DE: Sprecher im Rundfunk, Fernsehen und sonstigen Medien
+FR: Annonceurs-présentateurs de radio, de télévision et autres médias"
+2659,41.0,"DE: Bildende und darstellende Künstler, anderweitig nicht genannt
+FR: Artistes créateurs et exécutants non classés ailleurs"
+3000,51.0,"DE: Techniker und gleichrangige nichttechnische Berufe
+FR: Professions intermédiaires"
+3100,51.0,"DE: Ingenieurtechnische und vergleichbare Fachkräfte
+FR: Professions intermédiaires des sciences et techniques"
+3110,52.0,"DE: Material- und ingenieurtechnische Fachkräfte
+FR: Techniciens des sciences physiques et techniques"
+3111,49.0,"DE: Chemo- und Physikotechniker
+FR: Techniciens des sciences chimiques et physiques"
+3112,55.0,"DE: Bautechniker
+FR: Techniciens du génie civil"
+3113,51.0,"DE: Elektrotechniker
+FR: Techniciens en électricité"
+3114,53.0,"DE: Techniker im Bereich Elektronik
+FR: Techniciens en électronique"
+3115,52.0,"DE: Maschinenbautechniker
+FR: Techniciens en construction mécanique"
+3116,52.0,"DE: Chemiebetriebs- und Verfahrenstechniker
+FR: Techniciens en chimie industrielle"
+3117,59.0,"DE: Bergbau- und Hüttentechniker
+FR: Techniciens des mines, techniciens métallurgistes"
+3118,49.0,"DE: Technische Zeichner
+FR: Dessinateurs industriels"
+3119,50.0,"DE: Material- und ingenieurtechnische Fachkräfte, anderweitig nicht genannt
+FR: Techniciens des sciences physiques et techniques non classés ailleurs"
+3120,49.0,"DE: Produktionsleiter im Bergbau, bei der Herstellung von Waren und im Bau
+FR: Superviseurs, mines, industries manufacturières et bâtiment"
+3121,49.0,"DE: Produktionsleiter im Bergbau
+FR: Superviseurs, mines"
+3122,49.0,"DE: Produktionsleiter bei der Herstellung von Waren
+FR: Superviseurs, industries manufacturières"
+3123,49.0,"DE: Bauleiter
+FR: Superviseurs, bâtiment"
+3130,37.0,"DE: Techniker in der Prozesssteuerung
+FR: Techniciens, contrôle de processus industriels"
+3131,41.0,"DE: Steuerer von Energieerzeugungsanlagen
+FR: Conducteurs d’installations de production d’énergie"
+3132,38.0,"DE: Steuerer von Verbrennungs- und Wasserbehandlungsanlagen
+FR: Conducteurs d’incinérateurs et d’installations de traitement de l’eau"
+3133,37.0,"DE: Steuerer von chemischen Verfahrensanlagen
+FR: Conducteurs d’installations de traitement chimique"
+3134,37.0,"DE: Steuerer von Erdöl- und Erdgasraffinationsanlagen
+FR: Conducteurs d’installations de raffinage de pétrole et de gaz naturel"
+3135,37.0,"DE: Steuerer von Verfahren in der Metallerzeugung
+FR: Contrôleurs des processus industriels, métallurgie"
+3139,35.0,"DE: Techniker in der Prozesssteuerung, anderweitig nicht genannt
+FR: Techniciens, contrôle de processus industriels non classés ailleurs"
+3140,47.0,"DE: Biotechniker und verwandte technische Berufe
+FR: Techniciens et travailleurs assimilés des sciences de la vie"
+3141,47.0,"DE: Biotechniker (ohne medizinische Fachberufe)
+FR: Techniciens des sciences de la vie (à l’exception de la médecine)"
+3142,48.0,"DE: Agrartechniker
+FR: Techniciens, agriculture et élevage"
+3143,47.0,"DE: Forsttechniker
+FR: Techniciens, sylviculture"
+3150,59.0,"DE: Schiffsführer, Flugzeugführer und verwandte Berufe
+FR: Contrôleurs et techniciens des moyens de transport maritime et aérien"
+3151,55.0,"DE: Technische Schiffsoffiziere
+FR: Officiers mécaniciens de navires"
+3152,47.0,"DE: Schiffsführer, nautische Schiffsoffiziere und Schiffslotsen
+FR: Officiers de pont et pilotes"
+3153,74.0,"DE: Flugzeugführer und verwandte Berufe
+FR: Pilotes d’avions et assimilés"
+3154,67.0,"DE: Flugverkehrslotsen
+FR: Contrôleurs de la circulation aérienne"
+3155,66.0,"DE: Flugsicherungstechniker
+FR: Techniciens de la sécurité aérienne"
+3200,46.0,"DE: Assistenzberufe im Gesundheitswesen
+FR: Professions intermédiaires de la santé"
+3210,45.0,"DE: Medizinische und pharmazeutische Fachberufe
+FR: Techniciens de la médecine et de la pharmacie"
+3211,51.0,"DE: Medizintechniker im Bereich bildgebende Verfahren und Therapiegeräte
+FR: Techniciens d’appareils électromédicaux"
+3212,45.0,"DE: Medizintechniker im Bereich Labor und Pathologie
+FR: Techniciens de laboratoire médical"
+3213,40.0,"DE: Pharmazeutisch-technische Assistenten
+FR: Techniciens et assistants pharmaciens et préparateurs en pharmacie"
+3214,45.0,"DE: Medizinische und zahnmedizinische Prothetiktechniker
+FR: Techniciens de prothèses médicales et dentaires"
+3220,48.0,"DE: Nicht akademische Krankenpflege- und Geburtshilfefachkräfte
+FR: Personnel infirmier et sages femmes (niveau intermédiaire)"
+3221,48.0,"DE: Nicht akademische Krankenpflegefachkräfte
+FR: Personnel infirmier (niveau intermédiaire)"
+3222,42.0,"DE: Nicht akademische Geburtshilfefachkräfte
+FR: Sages-femmes (niveau intermédiaire)"
+3230,42.0,"DE: Nicht akademische Fachkräfte in traditioneller und komplementärer Medizin
+FR: Praticiens des médecines traditionnelles et des médecines complémentaires"
+3240,30.0,"DE: Veterinärmedizinische Fachkräfte und Assistenten
+FR: Techniciens et assistants vétérinaires"
+3250,45.0,"DE: Sonstige Assistenzberufe im Gesundheitswesen
+FR: Autres professions intermédiaires de la santé"
+3251,43.0,"DE: Zahnmedizinische Assistenten und Dentalhygieniker
+FR: Assistants et thérapeutes en médecine dentaire"
+3252,45.0,"DE: Fachkräfte im Bereich medizinische Dokumentation und Information
+FR: Techniciens de dossiers médicaux"
+3253,45.0,"DE: Fachkräfte in der öffentlichen Gesundheitsfürsorge
+FR: Agents de santé communautaire"
+3254,48.0,"DE: Augenoptiker
+FR: Opticiens"
+3255,40.0,"DE: Physiotherapeutische Techniker und Assistenten
+FR: Techniciens et assistants en physiothérapie"
+3256,46.0,"DE: Medizinische Assistenten
+FR: Assistants médicaux"
+3257,50.0,"DE: Nicht akademische Kontrolleure und Beauftragte in den Bereichen Umwelt- und Arbeitsmedizin sowie verwandte Berufe
+FR: Inspecteurs, salubrité de l’environnement et de la santé au travail, et assimilés"
+3258,45.0,"DE: Rettungsdienstpersonal
+FR: Ambulanciers"
+3259,45.0,"DE: Assistenzberufe im Gesundheitswesen, anderweitig nicht genannt
+FR: Professions intermédiaires de la santé non classées ailleurs"
+3300,53.0,"DE: Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte
+FR: Professions intermédiaires, finance et administration"
+3310,51.0,"DE: Nicht akademische Fachkräfte im Bereich Finanzen und mathematische Verfahren
+FR: Professions intermédiaires de la finance et des mathématiques"
+3311,67.0,"DE: Wertpapierhändler, -makler und Finanzmakler
+FR: Courtiers en valeurs et cambistes"
+3312,51.0,"DE: Kreditsachbearbeiter
+FR: Responsables des prêts"
+3313,47.0,"DE: Nicht akademische Fachkräfte im Rechnungswesen
+FR: Professions intermédiaires de la comptabilité"
+3314,63.0,"DE: Nicht akademische statistische, mathematische und verwandte Fachkräfte
+FR: Professions intermédiaires de la statistique, des mathématiques et assimilées"
+3315,52.0,"DE: Schätzer und Schadensgutachter
+FR: Commissaires-priseurs et autres experts en évaluation"
+3320,55.0,"DE: Vertriebsagenten, Einkäufer und Handelsmakler
+FR: Agents de vente et d’achat, courtiers"
+3321,57.0,"DE: Versicherungsvertreter
+FR: Agents d’assurances"
+3322,55.0,"DE: Vertriebsagenten
+FR: Représentants et techniciens commerciaux"
+3323,52.0,"DE: Einkäufer
+FR: Acheteurs"
+3324,54.0,"DE: Handelsmakler
+FR: Courtiers en marchandises"
+3330,56.0,"DE: Fachkräfte für unternehmensbezogene Dienstleistungen
+FR: Agents de services commerciaux"
+3331,54.0,"DE: Fachkräfte für Abrechnungs- und Speditionsdienstleistungen
+FR: Agents concessionnaires"
+3332,56.0,"DE: Konferenz- und Veranstaltungsplaner
+FR: Organisateurs de conférences et d’événements"
+3333,55.0,"DE: Arbeits- und Personalvermittler
+FR: Agents d’emploi et de recrutement de main-d’œuvre"
+3334,57.0,"DE: Immobilienmakler und -verwalter
+FR: Agents immobiliers"
+3339,57.0,"DE: Fachkräfte für unternehmensbezogene Dienstleistungen, anderweitig nicht genannt
+FR: Agents de services commerciaux non classés ailleurs"
+3340,49.0,"DE: Sekretariatsfachkräfte
+FR: Secrétaires d’administration et secrétaires spécialisés"
+3341,57.0,"DE: Sekretariatsleiter
+FR: Superviseurs, travail de bureau"
+3342,47.0,"DE: Sekretariatsfachkräfte im juristischen Bereich
+FR: Secrétaires, services juridiques"
+3343,49.0,"DE: Sekretariatsfachkräfte in Verwaltung und Geschäftsleitung
+FR: Secrétaires d’administration et secrétaires exécutifs"
+3344,49.0,"DE: Sekretariatsfachkräfte im Gesundheitswesen
+FR: Secrétaires médicales/médicaux"
+3350,55.0,"DE: Fachkräfte in der öffentlichen Verwaltung
+FR: Professions intermédiaires de l’application de la loi et assimilées"
+3351,63.0,"DE: Fachkräfte im Zolldienst und Grenzschutz
+FR: Inspecteurs des douanes et des frontières"
+3352,61.0,"DE: Fachkräfte in der Steuerverwaltung
+FR: Contrôleurs des impôts"
+3353,50.0,"DE: Fachkräfte in Sozialverwaltung und -versicherung
+FR: Agents des services publics accordant des prestations sociales"
+3354,52.0,"DE: Fachkräfte bei staatlichen Pass-, Lizenz- und Genehmigungsstellen
+FR: Agents des services publics accordant des permis et des licences"
+3355,54.0,"DE: Polizeikommissare und Kriminalbeamte
+FR: Inspecteurs et enquêteurs de police"
+3359,55.0,"DE: Fachkräfte in der öffentlichen Verwaltung, anderweitig nicht genannt
+FR: Professions intermédiaires de l’application de la loi et assimilées non classées ailleurs"
+3400,45.0,"DE: Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte
+FR: Professions intermédiaires des services juridiques, des services sociaux et assimilés"
+3410,45.0,"DE: Nicht akademische juristische, sozialpflegerische und religiöse Berufe
+FR: Professions intermédiaires des services juridiques, des services sociaux et des religions"
+3411,52.0,"DE: Nicht akademische Fachkräfte für Rechts- und verwandte Angelegenheiten
+FR: Professions juridiques intermédiaires et assimilées"
+3412,42.0,"DE: Nicht akademische sozialpflegerische Fachkräfte
+FR: Professions intermédiaires du travail social"
+3413,31.0,"DE: Ordensbrüder/-schwestern und Seelsorgehelfer
+FR: Professions intermédiaires des religions"
+3420,46.0,"DE: Fachkräfte im Bereich Sport und Fitness
+FR: Travailleurs du secteur des sports et des activités de remise en forme"
+3421,46.0,"DE: Athleten und Berufssportler
+FR: Athlètes et sportifs de compétition"
+3422,46.0,"DE: Sportlehrer, Sporttrainer und Sportfunktionäre
+FR: Entraîneurs sportifs et arbitres de sport"
+3423,46.0,"DE: Trainer und Betreuer im Bereich Fitness und Erholung
+FR: Instructeurs et animateurs de programmes, loisirs et activités de remise en forme"
+3430,47.0,"DE: Fachkräfte in Gestaltung und Kultur sowie Küchenchefs
+FR: Professions intermédiaires de la culture, de la création artistique et des activités culinaires"
+3431,50.0,"DE: Fotografen
+FR: Photographes"
+3432,47.0,"DE: Raumgestalter und Dekorateure
+FR: Décorateurs et designers d’intérieurs"
+3433,47.0,"DE: Fachkräfte in Kunstgalerien, Museen und Bibliotheken
+FR: Techniciens de galeries d’art, de musées et de bibliothèques"
+3434,47.0,"DE: Küchenchefs
+FR: Chefs cuisiniers"
+3435,45.0,"DE: Sonstige Fachkräfte in Gestaltung und Kultur
+FR: Autres professions intermédiaires de la culture et de la création artistique"
+3500,57.0,"DE: Informations- und Kommunikationstechniker
+FR: Techniciens de l’information et des communications"
+3510,58.0,"DE: Techniker für den Betrieb von Informations- und Kommunikationstechnologie und für die Anwenderbetreuung
+FR: Techniciens, opérations et soutien aux utilisateurs des technologies de l’information et des communications"
+3511,56.0,"DE: Techniker für den Betrieb von Informations- und Kommunikationstechnologie
+FR: Techniciens des technologies de l’information et des communications, opérations"
+3512,60.0,"DE: Techniker für die Anwenderbetreuung in der Informations- und Kommunikationstechnologie
+FR: Techniciens des technologies de l’information et des communications, soutien aux utilisateurs"
+3513,50.0,"DE: Techniker für Computernetzwerke und -systeme
+FR: Techniciens, réseaux et systèmes d’ordinateurs"
+3514,50.0,"DE: Webmaster
+FR: Techniciens de l’internet"
+3520,46.0,"DE: Telekommunikations- und Rundfunktechniker
+FR: Techniciens des télécommunications et de la radiodiffusion"
+3521,46.0,"DE: Techniker für Rundfunk und audiovisuelle Medien
+FR: Techniciens de radiotélévision et d’enregistrement audiovisuel"
+3522,46.0,"DE: Telekommunikationstechniker
+FR: Techniciens de télécommunications"
+4000,41.0,"DE: Bürokräfte und verwandte Berufe
+FR: Employés de type administratif"
+4100,41.0,"DE: Allgemeine Büro- und Sekretariatskräfte
+FR: Employés de bureau"
+4110,41.0,"DE: Allgemeine Bürokräfte
+FR: Employés de bureau, fonctions générales"
+4120,42.0,"DE: Sekretariatskräfte (allgemein)
+FR: Secrétaires (fonctions générales)"
+4130,39.0,"DE: Schreibkräfte und Datenerfasser
+FR: Opérateurs sur clavier"
+4131,42.0,"DE: Schreibkräfte und Bediener von Textverarbeitungsanlagen
+FR: Dactylographes et opérateurs de traitement de texte"
+4132,36.0,"DE: Datenerfasser
+FR: Opérateurs sur clavier numérique"
+4200,40.0,"DE: Bürokräfte mit Kundenkontakt
+FR: Employés de réception, guichetiers et assimilés"
+4210,44.0,"DE: Schalterbedienstete, Inkassobeauftragte und verwandte Berufe
+FR: Guichetiers, encaisseurs et assimilés"
+4211,44.0,"DE: Bank- und andere Schalterbedienstete
+FR: Guichetiers de banque et assimilés"
+4212,46.0,"DE: Buchmacher, Croupiers und verwandte Berufe im Bereich Glücks- und Wettspiele
+FR: Croupiers et assimilés dans le secteur des jeux de hasard"
+4213,70.0,"DE: Pfandleiher und Geldverleiher
+FR: Prêteurs sur gages et bailleurs de fonds"
+4214,46.0,"DE: Inkassobeauftragte und verwandte Berufe
+FR: Encaisseurs et assimilés"
+4220,37.0,"DE: Berufe im Bereich Kundeninformation
+FR: Employés chargés d’informer la clientèle"
+4221,42.0,"DE: Reiseverkehrsfachkräfte
+FR: Consultants et employés d’agence de voyages"
+4222,37.0,"DE: Kundeninformationsfachkräfte in Call Centers
+FR: Employés de centre d’appel"
+4223,34.0,"DE: Telefonisten
+FR: Téléphonistes-standardistes"
+4224,37.0,"DE: Hotelrezeptionisten
+FR: Réceptionnistes, hôtellerie"
+4225,37.0,"DE: Auskunftspersonal
+FR: Employés, service d’information"
+4226,37.0,"DE: Empfangskräfte (allgemein)
+FR: Réceptionnistes (fonctions générales)"
+4227,37.0,"DE: Interviewer im Bereich Umfragen und Marktforschung
+FR: Intervieweurs, enquêtes et études de marché"
+4229,37.0,"DE: Berufe im Bereich Kundeninformation, anderweitig nicht genannt
+FR: Employés chargés d’informer la clientèle non classés ailleurs"
+4300,43.0,"DE: Bürokräfte im Finanz- und Rechnungswesen, in der Statistik und in der Materialwirtschaft
+FR: Employés des services comptables et d’approvisionnement"
+4310,47.0,"DE: Bürokräfte im Finanz- und Rechnungswesen und in der Statistik
+FR: Employés des services comptables et financiers"
+4311,45.0,"DE: Bürokräfte im Rechnungswesen und in der Buchhaltung
+FR: Aides comptables et teneurs de livres"
+4312,52.0,"DE: Bürokräfte in der Statistik, im Finanz- und Versicherungswesen
+FR: Employés de services statistiques ou financiers"
+4313,47.0,"DE: Bürokräfte in der Lohnbuchhaltung
+FR: Commis, service de paie"
+4320,38.0,"DE: Bürokräfte im Bereich Materialwirtschaft und Transport und verwandte Berufe
+FR: Employés d’approvisionnement, d’ordonnancement et des transports"
+4321,36.0,"DE: Fachkräfte in der Lagerwirtschaft
+FR: Employés du service des stocks"
+4322,41.0,"DE: Bürokräfte in der Material- und Fertigungsplanung und verwandte Berufe
+FR: Employés du service d’ordonnancement de la production"
+4323,41.0,"DE: Bürokräfte in der Transportwirtschaft und verwandte Berufe
+FR: Employés du service des transports"
+4400,40.0,"DE: Sonstige Bürokräfte und verwandte Berufe
+FR: Autres employés de type administratif"
+4410,40.0,"DE: Sonstige Bürokräfte und verwandte Berufe
+FR: Autres employés de type administratif"
+4411,42.0,"DE: Bibliotheksassistenten
+FR: Employés de bibliothèque"
+4412,32.0,"DE: Postverteiler und -sortierer
+FR: Employés de service du courrier"
+4413,42.0,"DE: Kodierer, Korrekturleser und verwandte Bürokräfte
+FR: Codeurs, correcteurs d’épreuves et assimilés"
+4414,45.0,"DE: Schreiber und verwandte Arbeitskräfte
+FR: Écrivains publics et assimilés"
+4415,40.0,"DE: Bürokräfte für Registratur und Dokumentation
+FR: Classeurs-archivistes"
+4416,40.0,"DE: Bürokräfte im Personalwesen
+FR: Employés, service du personnel"
+4419,40.0,"DE: Bürokräfte und verwandte Berufe, anderweitig nicht genannt
+FR: Employés administratifs non classés ailleurs"
+5000,31.0,"DE: Dienstleistungsberufe und Verkäufer
+FR: Personnel des services directs aux particuliers, commerçants et vendeurs"
+5100,30.0,"DE: Berufe im Bereich personenbezogener Dienstleistungen
+FR: Personnel des services directs aux particuliers"
+5110,42.0,"DE: Reisebegleiter, Schaffner und Reiseleiter
+FR: Agents d’accompagnement et assimilés (transports et tourisme)"
+5111,44.0,"DE: Reisebegleiter und Stewards
+FR: Agents d’accueil et stewards"
+5112,40.0,"DE: Schaffner
+FR: Contrôleurs et receveurs de transports publics"
+5113,41.0,"DE: Reiseleiter/Fremdenführer
+FR: Guides"
+5120,27.0,"DE: Köche
+FR: Cuisiniers"
+5130,29.0,"DE: Kellner und Barkeeper
+FR: Serveurs et barmen"
+5131,28.0,"DE: Kellner
+FR: Serveurs"
+5132,30.0,"DE: Barkeeper
+FR: Barmen"
+5140,32.0,"DE: Friseure, Kosmetiker und verwandte Berufe
+FR: Coiffeurs, esthéticiens et assimilés"
+5141,32.0,"DE: Friseure
+FR: Coiffeurs"
+5142,32.0,"DE: Kosmetiker und verwandte Berufe
+FR: Esthéticiens et assimilés"
+5150,29.0,"DE: Hauswarte und Hauswirtschaftsleiter
+FR: Intendants, gouvernantes et concierges"
+5151,33.0,"DE: Reinigungs- und Hauswirtschaftsleiter in Büros, Hotels und anderen Einrichtungen
+FR: Intendants et superviseurs des services de nettoyage de bureaux, des hôtels et d’autres établissements"
+5152,33.0,"DE: Hauswirtschafter in Privathaushalten
+FR: Gouvernantes et intendants à domicile"
+5153,26.0,"DE: Hauswarte
+FR: Concierges"
+5160,33.0,"DE: Sonstige Berufe im Bereich personenbezogener Dienstleistungen
+FR: Autre personnel des services directs aux particuliers"
+5161,43.0,"DE: Astrologen, Wahrsager und verwandte Berufe
+FR: Astrologues, diseurs de bonne aventure et assimilés"
+5162,24.0,"DE: Gesellschafter und Zofen/Kammerdiener
+FR: Personnel de compagnie et valets de chambre"
+5163,37.0,"DE: Bestatter und Einbalsamierer
+FR: Agents de pompes funèbres et embaumeurs"
+5164,33.0,"DE: Tierpfleger und -betreuer
+FR: Toiletteurs et gardiens d’animaux"
+5165,33.0,"DE: Fahrschullehrer
+FR: Moniteurs d’auto-école"
+5169,34.0,"DE: Berufe im Bereich personenbezogener Dienstleistungen, anderweitig nicht genannt
+FR: Personnel des services directs aux particuliers, non classé ailleurs"
+5200,33.0,"DE: Verkaufskräfte
+FR: Commerçants et vendeurs"
+5210,28.0,"DE: Straßen- und Marktverkäufer
+FR: Vendeurs sur les marchés et vendeurs ambulants de comestibles"
+5211,31.0,"DE: Verkaufsstand- und Marktverkäufer
+FR: Vendeurs à l’étal et sur les marchés"
+5212,23.0,"DE: Straßenverkäufer von Lebensmitteln
+FR: Vendeurs ambulants de comestibles"
+5220,33.0,"DE: Verkaufskräfte in Handelsgeschäften
+FR: Commerçants et vendeurs, magasins"
+5221,45.0,"DE: Leiter eines Einzelhandelsgeschäftes
+FR: Commerçants, magasins"
+5222,40.0,"DE: Verkaufsaufsichtskräfte in Handelsgeschäften
+FR: Superviseurs, magasins"
+5223,31.0,"DE: Verkäufer und Verkaufshilfskräfte in Handelsgeschäften
+FR: Vendeurs, magasin"
+5230,31.0,"DE: Kassierer und Kartenverkäufer
+FR: Caissiers et billettistes"
+5240,35.0,"DE: Sonstige Verkaufskräfte
+FR: Autres vendeurs"
+5241,37.0,"DE: Mannequins/Dressmen und sonstige Modelle
+FR: Mannequins et autres modèles"
+5242,41.0,"DE: Produktvorführer
+FR: Démonstrateurs en magasin"
+5243,34.0,"DE: Haustürverkäufer
+FR: Vendeurs au porte-à-porte"
+5244,35.0,"DE: Telefonverkäufer
+FR: Télévendeurs"
+5245,17.0,"DE: Tankwarte
+FR: Pompistes"
+5246,25.0,"DE: Imbissverkäufer
+FR: Commis au comptoir, restauration rapide"
+5249,25.0,"DE: Verkaufskräfte, anderweitig nicht genannt
+FR: Vendeurs non classés ailleurs"
+5300,26.0,"DE: Betreuungsberufe
+FR: Personnel soignant"
+5310,26.0,"DE: Kinder- und Lernbetreuer
+FR: Gardes d’enfants et aides-enseignants"
+5311,26.0,"DE: Kinderbetreuer
+FR: Gardes d’enfants"
+5312,38.0,"DE: Lernbetreuer
+FR: Aides-enseignants"
+5320,27.0,"DE: Betreuungsberufe im Gesundheitswesen
+FR: Aides-soignants"
+5321,28.0,"DE: Pflegehelfer
+FR: Aides-soignants en institution"
+5322,24.0,"DE: Haus- und Familienpfleger
+FR: Aides-soignants à domicile"
+5329,26.0,"DE: Betreuungsberufe im Gesundheitswesen, anderweitig nicht genannt
+FR: Personnel soignant et assimilé, non classé ailleurs"
+5400,40.0,"DE: Schutzkräfte und Sicherheitsbedienstete
+FR: Personnel des services de protection et de sécurité"
+5410,40.0,"DE: Schutzkräfte und Sicherheitsbedienstete
+FR: Personnel des services de protection et de sécurité"
+5411,49.0,"DE: Feuerwehrleute
+FR: Pompiers"
+5412,53.0,"DE: Polizisten (ohne Polizeikommissare)
+FR: Agents de police"
+5413,49.0,"DE: Gefängnisaufseher
+FR: Gardiens de prison"
+5414,27.0,"DE: Sicherheitswachpersonal
+FR: Agents de sécurité"
+5419,38.0,"DE: Schutzkräfte und Sicherheitsbedienstete, anderweitig nicht genannt
+FR: Personnel des services de protection et de sécurité, non classé ailleurs"
+6000,18.0,"DE: Fachkräfte in Land- und Forstwirtschaft und Fischerei
+FR: Agriculteurs et ouvriers qualifiés de l’agriculture, de la sylviculture et de la pêche"
+6100,18.0,"DE: Fachkräfte in der Landwirtschaft
+FR: Agriculteurs et ouvriers qualifiés de l’agriculture commerciale"
+6110,18.0,"DE: Gärtner und Ackerbauern
+FR: Agriculteurs et ouvriers qualifiés, cultures commerciales"
+6111,16.0,"DE: Ackerbauern und Gemüseanbauer
+FR: Agriculteurs et ouvriers qualifiés, cultures de plein champ"
+6112,21.0,"DE: Baum- und Strauchfrüchteanbauer
+FR: Arboriculteurs et ouvriers qualifiés de l’arboriculture"
+6113,24.0,"DE: Gärtner, Saat- und Pflanzenzüchter
+FR: Agriculteurs et ouvriers qualifiés de l’horticulture et des pépinières"
+6114,14.0,"DE: Fachkräfte in der Mischkulturlandwirtschaft
+FR: Agriculteurs et ouvriers qualifiés, cultures diversifiées"
+6120,24.0,"DE: Tierhalter
+FR: Éleveurs et ouvriers qualifiés de l’élevage commercial et assimilés"
+6121,23.0,"DE: Nutztierhalter (ohne Geflügel) und Milchproduzenten
+FR: Éleveurs et ouvriers qualifiés de l’élevage de bétail"
+6122,20.0,"DE: Geflügelhalter
+FR: Aviculteurs et ouvriers qualifiés de l’aviculture"
+6123,29.0,"DE: Imker und Seidenraupenzüchter
+FR: Apiculteurs, sériciculteurs et ouvriers qualifiés de l’apiculture et de la sériciculture"
+6129,27.0,"DE: Tierhalter, anderweitig nicht genannt
+FR: Éleveurs et ouvriers qualifiés de l’élevage commercial et assimilés, non classés ailleurs"
+6130,18.0,"DE: Landwirte mit Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+FR: Agriculteurs et ouvriers qualifiés des cultures et de l’élevage à but commercial"
+6200,24.0,"DE: Fachkräfte in Forstwirtschaft, Fischerei und Jagd — Marktproduktion
+FR: Professions commerciales qualifiées de la sylviculture, de la pêche et de la chasse"
+6210,26.0,"DE: Forstarbeitskräfte und verwandte Berufe
+FR: Professions de la sylviculture et assimilées"
+6220,21.0,"DE: Fischer, Jäger und Fallensteller
+FR: Pêcheurs, chasseurs et trappeurs"
+6221,18.0,"DE: Fachkräfte im Bereich Aquakultur
+FR: Aquaculteurs et ouvriers de l’aquaculture"
+6222,19.0,"DE: Binnen- und Küstenfischer
+FR: Pêcheurs de la pêche côtière et en eaux intérieures"
+6223,35.0,"DE: Hochseefischer
+FR: Pêcheurs de la pêche en haute mer"
+6224,10.0,"DE: Jäger und Fallensteller
+FR: Chasseurs et trappeurs"
+6300,10.0,"DE: Landwirte, Fischer, Jäger und Sammler für den Eigenbedarf
+FR: Agriculteurs, pêcheurs, chasseurs et cueilleurs de subsistance"
+6310,10.0,"DE: Ackerbauern für den Eigenbedarf
+FR: Agriculteurs, subsistance"
+6320,10.0,"DE: Nutztierhalter für den Eigenbedarf
+FR: Éleveurs de bétail, subsistance"
+6330,10.0,"DE: Ackerbauern und Nutztierhalter (ohne ausgeprägten Schwerpunkt) für den Eigenbedarf
+FR: Agriculteurs et éleveurs, subsistance"
+6340,10.0,"DE: Fischer, Jäger, Fallensteller und Sammler für den Eigenbedarf
+FR: Pêcheurs, chasseurs, trappeurs et cueilleurs, subsistance"
+7000,35.0,"DE: Handwerks- und verwandte Berufe
+FR: Métiers qualifiés de l’industrie et de l’artisanat"
+7100,34.0,"DE: Bau- und Ausbaufachkräfte sowie verwandte Berufe, ausgenommen Elektriker
+FR: Métiers qualifiés du bâtiment et assimilés, sauf électriciens"
+7110,34.0,"DE: Baukonstruktions- und verwandte Berufe
+FR: Métiers qualifiés du bâtiment (gros œuvre) et assimilés"
+7111,40.0,"DE: Rohbaufacharbeiter im Hochbau
+FR: Constructeurs de maisons"
+7112,32.0,"DE: Maurer und verwandte Berufe
+FR: Maçons"
+7113,31.0,"DE: Steinmetze, Steinspalter, -bearbeiter und Steinbildhauer
+FR: Fendeurs et tailleurs de pierre"
+7114,32.0,"DE: Betonierer, Betonoberflächenfertiger und verwandte Berufe
+FR: Constructeurs en béton armé, maçons ragréeurs et assimilés"
+7115,33.0,"DE: Zimmerleute und Bautischler
+FR: Charpentiers en bois et menuisiers du bâtiment"
+7119,35.0,"DE: Baukonstruktions- und verwandte Berufe, anderweitig nicht genannt
+FR: Métiers qualifiés du bâtiment (gros œuvre) et assimilés non classés ailleurs"
+7120,36.0,"DE: Ausbaufachkräfte und verwandte Berufe
+FR: Métiers qualifiés du bâtiment (finitions) et assimilés"
+7121,36.0,"DE: Dachdecker
+FR: Couvreurs et zingueurs"
+7122,35.0,"DE: Boden- und Fliesenleger
+FR: Poseurs de revêtements de sol et carreleurs"
+7123,29.0,"DE: Stuckateure
+FR: Plâtriers"
+7124,39.0,"DE: Isolierer
+FR: Monteurs en isolation thermique et acoustique"
+7125,33.0,"DE: Glaser
+FR: Vitriers"
+7126,38.0,"DE: Bauspengler und Sanitär- und Heizungsinstallateure
+FR: Plombiers et tuyauteurs"
+7127,38.0,"DE: Klima- und Kälteanlagenbauer
+FR: Mécaniciens-installateurs réfrigération et climatisation"
+7130,34.0,"DE: Maler, Gebäudereiniger und verwandte Berufe
+FR: Ouvriers peintres, ravaleurs de façades et assimilés"
+7131,33.0,"DE: Maler und verwandte Berufe
+FR: Peintres en bâtiment et poseurs de papiers peints"
+7132,34.0,"DE: Lackierer und verwandte Berufe
+FR: Laqueurs, vernisseurs et assimilés"
+7133,48.0,"DE: Fassadenreiniger und Schornsteinfeger/Rauchfangkehrer
+FR: Ravaleurs de façades et ramoneurs"
+7200,38.0,"DE: Metallarbeiter, Mechaniker und verwandte Berufe
+FR: Métiers qualifiés de la métallurgie, de la construction mécanique et assimilés"
+7210,37.0,"DE: Blechkaltverformer, Baumetallverformer, Former (für Metallguss), Schweißer und verwandte Berufe
+FR: Mouleurs de fonderie, soudeurs, tôliers-chaudronniers, monteurs de charpentes métalliques et assimilés"
+7211,38.0,"DE: Former und Kernmacher (für Metallguss)
+FR: Mouleurs et noyauteurs de fonderie"
+7212,37.0,"DE: Schweißer und Brennschneider
+FR: Soudeurs et oxycoupeurs"
+7213,36.0,"DE: Blechkaltverformer
+FR: Tôliers-chaudronniers"
+7214,38.0,"DE: Baumetallverformer und Metallbauer
+FR: Charpentiers métalliers et monteurs de charpentes métalliques"
+7215,26.0,"DE: Verspannungsmonteure und Seilspleißer
+FR: Gréeurs et épisseurs de câbles"
+7220,38.0,"DE: Grobschmiede, Werkzeugmechaniker und verwandte Berufe
+FR: Forgerons, outilleurs et assimilés"
+7221,34.0,"DE: Grobschmiede, Hammerschmiede und Schmiedepresser
+FR: Forgerons, estampeurs et conducteurs de presses à forger"
+7222,40.0,"DE: Werkzeugmechaniker und verwandte Berufe
+FR: Outilleurs et assimilés"
+7223,36.0,"DE: Werkzeugmaschineneinrichter und -bediener
+FR: Régleurs et conducteurs de machines-outils"
+7224,41.0,"DE: Metallpolierer, Rundschleifer und Werkzeugschärfer
+FR: Meuleurs, polisseurs et affûteurs"
+7230,39.0,"DE: Maschinenmechaniker und -schlosser
+FR: Mécaniciens et réparateurs de machines"
+7231,38.0,"DE: Kraftfahrzeugmechaniker und -schlosser
+FR: Mécaniciens et réparateurs de véhicules à moteur"
+7232,54.0,"DE: Flugmotorenmechaniker und -schlosser
+FR: Mécaniciens et réparateurs de moteurs d’avion"
+7233,38.0,"DE: Landmaschinen- und Industriemaschinenmechaniker und -schlosser
+FR: Mécaniciens et réparateurs de machines agricoles et industrielles"
+7234,26.0,"DE: Fahrradmechaniker und verwandte Berufe
+FR: Réparateurs de bicyclettes et assimilés"
+7300,33.0,"DE: Präzisionshandwerker, Drucker und kunsthandwerkliche Berufe
+FR: Métiers qualifiés de l’artisanat et de l’imprimerie"
+7310,31.0,"DE: Präzisionshandwerker und kunsthandwerkliche Berufe
+FR: Métiers de l’artisanat"
+7311,38.0,"DE: Präzisionsinstrumentenmacher und -instandsetzer
+FR: Mécaniciens-réparateurs d’instruments de précision"
+7312,42.0,"DE: Musikinstrumentenbauer und -stimmer
+FR: Facteurs et accordeurs d’instruments de musique"
+7313,36.0,"DE: Schmuckwarenhersteller und Edelmetallbearbeiter
+FR: Joailliers et orfèvres"
+7314,29.0,"DE: Keramiker und verwandte Berufe
+FR: Potiers et assimilés (produits céramiques et abrasifs)"
+7315,35.0,"DE: Glasmacher, -schneider, -schleifer und -veredler
+FR: Souffleurs, mouleurs, tailleurs, meuleurs et polisseurs de verre"
+7316,30.0,"DE: Schildermaler, Dekormaler, Graveure und Ätzer
+FR: Peintres d’enseignes, peintres-décorateurs et graveurs"
+7317,33.0,"DE: Kunsthandwerkliche Berufe für Holz, Korbwaren und verwandte Materialien
+FR: Métiers de l’artisanat sur bois et sur des matériaux similaires"
+7318,25.0,"DE: Kunsthandwerkliche Berufe für Textilien, Leder und verwandte Materialien
+FR: Métiers de l’artisanat sur textile, sur cuir et sur des matériaux similaires"
+7319,34.0,"DE: Kunsthandwerkliche Berufe, anderweitig nicht genannt
+FR: Métiers de l’artisanat non classés ailleurs"
+7320,36.0,"DE: Druckhandwerker
+FR: Métiers de l’imprimerie"
+7321,38.0,"DE: Techniker in der Druckvorstufe
+FR: Compositeurs et préparateurs en forme imprimante et assimilés"
+7322,37.0,"DE: Drucker
+FR: Imprimeurs"
+7323,34.0,"DE: Berufe in der Druckweiterverarbeitung und Buchbinder
+FR: Relieurs et assimilés"
+7400,43.0,"DE: Elektriker- und Elektroniker
+FR: Métiers de l’électricité et de l’électrotechnique"
+7410,43.0,"DE: Elektroinstallateure und -mechaniker
+FR: Installateurs et réparateurs, équipements électriques"
+7411,43.0,"DE: Bauelektriker und verwandte Berufe
+FR: Électriciens du bâtiment et assimilés"
+7412,42.0,"DE: Elektromechaniker und verwandte Berufe
+FR: Mécaniciens et ajusteurs d’appareils électriques"
+7413,43.0,"DE: Elektroleitungsinstallateure und Wartungspersonal
+FR: Monteurs et réparateurs de lignes électriques"
+7420,44.0,"DE: Installateure und Mechaniker für Elektronik und Telekommunikationstechnik
+FR: Monteurs et réparateurs, électronique et télécommunications"
+7421,45.0,"DE: Elektroniker und Elektronik-Servicetechniker
+FR: Mécaniciens et réparateurs d’appareils électroniques"
+7422,41.0,"DE: Installateure und Servicetechniker im Bereich Informations- und Kommunikationstechnik
+FR: Monteurs et réparateurs, technologies de l’information et des communications"
+7500,27.0,"DE: Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung und verwandte handwerkliche Fachkräfte
+FR: Métiers de l’alimentation, du travail sur bois, de l’habillement et autres métiers qualifiés de l’industrie et de l’artisanat"
+7510,29.0,"DE: Berufe in der Nahrungsmittelverarbeitung und verwandte handwerkliche Fachkräfte
+FR: Métiers qualifiés de l’alimentation et assimilés"
+7511,29.0,"DE: Fleischer, Fischhändler und -verarbeiter und verwandte Berufe
+FR: Bouchers, poissonniers et assimilés"
+7512,29.0,"DE: Bäcker, Konditoren und Konfektmacher
+FR: Boulangers, pâtissiers et confiseurs"
+7513,34.0,"DE: Molkerei- und Käsereifachkräfte
+FR: Fabricants des produits laitiers"
+7514,24.0,"DE: Obst- und Gemüsekonservierer und verwandte Berufe
+FR: Conserveurs de fruits, de légumes et assimilés"
+7515,32.0,"DE: Nahrungsmittel- und Getränkekoster und -klassierer
+FR: Dégustateurs et classeurs de denrées alimentaires et de boissons"
+7516,10.0,"DE: Tabakaufbereiter und Tabakwarenmacher
+FR: Métiers qualifiés de la préparation du tabac et de la fabrication des produits du tabac"
+7520,32.0,"DE: Holzbearbeiter, Möbeltischler und verwandte Berufe
+FR: Métiers qualifiés du traitement du bois, ébénistes et assimilés"
+7521,27.0,"DE: Holztrockner und -konservierer
+FR: Métiers qualifiés du traitement du bois"
+7522,34.0,"DE: Möbeltischler und verwandte Berufe
+FR: Ébénistes, menuisiers et assimilés"
+7523,21.0,"DE: Einrichter und Bediener von Holzbearbeitungsmaschinen
+FR: Régleurs et conducteurs de machines à bois"
+7530,25.0,"DE: Berufe der Bekleidungsherstellung und verwandte Berufe
+FR: Métiers qualifiés de l’habillement et assimilés"
+7531,24.0,"DE: Herren- und Damenschneider, Kürschner und Hutmacher
+FR: Tailleurs, couturiers, fourreurs, modistes et chapeliers"
+7532,27.0,"DE: Schnittmustermacher und Zuschneider
+FR: Métiers qualifiés de la coupe de vêtements et assimilés"
+7533,24.0,"DE: Näher, Sticker und verwandte Berufe
+FR: Couseurs, brodeurs et assimilés"
+7534,29.0,"DE: Polsterer und verwandte Berufe
+FR: Tapissiers et assimilés"
+7535,30.0,"DE: Pelzveredler, Gerber und Fellzurichter
+FR: Tanneurs, peaussiers et mégissiers"
+7536,27.0,"DE: Schuhmacher und verwandte Berufe
+FR: Cordonniers et assimilés"
+7540,32.0,"DE: Sonstige Handwerks- und verwandte Berufe
+FR: Autres métiers qualifiés de l’industrie et de l’artisanat"
+7541,32.0,"DE: Taucher
+FR: Scaphandriers et plongeurs"
+7542,49.0,"DE: Sprengmeister und Sprengbeauftragte
+FR: Boutefeux"
+7543,32.0,"DE: Produkttester und -klassierer (ohne Nahrungsmittel und Getränke)
+FR: Classeurs et essayeurs de produits (à l’exception des aliments et des boissons)"
+7544,32.0,"DE: Kammerjäger und andere Schädlingsbekämpfungsberufe
+FR: Fumigateurs et préposés au contrôle de la vermine et des mauvaises herbes"
+7549,32.0,"DE: Handwerks- und verwandte Berufe, anderweitig nicht genannt
+FR: Métiers qualifiés de l’industrie et de l’artisanat non classés ailleurs"
+8000,32.0,"DE: Bediener von Anlagen und Maschinen und Montageberufe
+FR: Conducteurs d’installations et de machines, et ouvriers de l’assemblage"
+8100,29.0,"DE: Bediener stationärer Anlagen und Maschinen
+FR: Conducteurs de machines et d’installations fixes"
+8110,39.0,"DE: Bediener von Anlagen für den Bergbau und die Mineralaufbereitung
+FR: Conducteurs d’installations d’exploitation minière et d’extraction des minéraux"
+8111,40.0,"DE: Bergleute und Grubenarbeiter
+FR: Mineurs et conducteurs d’installations de mine"
+8112,39.0,"DE: Bediener von Mineral- und Gesteinsaufbereitungsanlagen
+FR: Conducteurs d’installations de préparation des minerais et de la roche"
+8113,46.0,"DE: Tiefbohrer und verwandte Berufe
+FR: Foreurs, sondeurs de puits et assimilés"
+8114,33.0,"DE: Bediener von Maschinen zur Herstellung und Verarbeitung von Zement, Steinen und sonstigen Mineralien
+FR: Conducteurs de machines à fabriquer du ciment, de la pierre et d’autres produits minéraux"
+8120,33.0,"DE: Bediener von Anlagen in der Metallerzeugung, -umformung und -veredlung
+FR: Conducteurs d’installations de transformation et de traitement superficiel des métaux"
+8121,35.0,"DE: Bediener von Anlagen in der Metallerzeugung und -umformung
+FR: Conducteurs d’installations de transformation et de traitement des métaux"
+8122,31.0,"DE: Bediener von Anlagen zur Metallveredlung, Plattierung und Beschichtung von Metallen
+FR: Conducteurs d’installations de traitement superficiel des métaux"
+8130,35.0,"DE: Bediener von Anlagen und Maschinen für chemische und fotografische Erzeugnisse
+FR: Conducteurs d’installations et de machines pour la fabrication des produits chimiques et photographiques"
+8131,35.0,"DE: Bediener von Anlagen und Maschinen für chemische Erzeugnisse
+FR: Conducteurs d’installations et de machines de traitement chimique"
+8132,34.0,"DE: Bediener von Anlagen für fotografische Erzeugnisse
+FR: Conducteurs de machines pour la fabrication des produits photographiques"
+8140,31.0,"DE: Bediener von Maschinen zur Herstellung von Gummi-, Kunststoff- und Papierwaren
+FR: Conducteurs de machines pour la fabrication de produits en caoutchouc, en matières plastiques et en papeterie"
+8141,29.0,"DE: Bediener von Maschinen zur Herstellung von Gummiwaren
+FR: Conducteurs de machines pour la fabrication des produits en caoutchouc"
+8142,31.0,"DE: Bediener von Maschinen zur Herstellung von Kunststoffwaren
+FR: Conducteurs de machines pour la fabrication de produits en matières plastiques"
+8143,36.0,"DE: Bediener von Maschinen zur Herstellung von Papierwaren
+FR: Conducteurs de machines de papeterie"
+8150,21.0,"DE: Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren
+FR: Conducteurs de machines pour la fabrication de produits textiles et d’articles en fourrure et en cuir"
+8151,27.0,"DE: Bediener von Spinnstoffaufbereitungs-, Spinn- und Spulmaschinen
+FR: Conducteurs de machines à préparer les fibres, à filer et à bobiner"
+8152,20.0,"DE: Bediener von Web-, Strick- und Wirkmaschinen
+FR: Conducteurs de métiers mécaniques à tisser et à tricoter"
+8153,18.0,"DE: Bediener von Nähmaschinen
+FR: Conducteurs de machines à coudre"
+8154,19.0,"DE: Bediener von Bleich- und Färbemaschinen
+FR: Conducteurs de machines à blanchir, à teindre et à nettoyer les tissus"
+8155,22.0,"DE: Bediener von Pelz- und Lederzurichtungs- und -vorbereitungsmaschinen
+FR: Conducteurs de machines à préparer les fourrures et le cuir"
+8156,18.0,"DE: Bediener von Maschinen zur Schuhherstellung und verwandte Berufe
+FR: Conducteurs de machines pour la fabrication des chaussures et assimilés"
+8157,24.0,"DE: Bediener von Wäschereimaschinen
+FR: Conducteurs de machines de blanchisserie"
+8159,27.0,"DE: Bediener von Maschinen zur Herstellung von Textil-, Pelz- und Lederwaren, anderweitig nicht genannt
+FR: Conducteurs de machines pour la fabrication de produits textiles et d’articles en fourrure et en cuir, non classés ailleurs"
+8160,22.0,"DE: Bediener von Maschinen zur Herstellung von Nahrungs- und Genussmitteln
+FR: Conducteurs de machines pour la fabrication de denrées alimentaires et de produits connexes"
+8170,29.0,"DE: Bediener von Anlagen zur Holzaufbereitung und Papierherstellung
+FR: Conducteurs d’installations pour la fabrication du papier et pour le travail du bois"
+8171,33.0,"DE: Bediener von Anlagen zur Zellstoff- und Papierherstellung
+FR: Conducteurs d’installations pour la fabrication du papier et de la pâte à papier"
+8172,27.0,"DE: Bediener von Anlagen zur Holzaufbereitung
+FR: Conducteurs d’installations pour le travail du bois"
+8180,29.0,"DE: Bediener sonstiger stationärer Anlagen und Maschinen
+FR: Autres conducteurs de machines et d’installations fixes"
+8181,25.0,"DE: Bediener von Anlagen zur Glas- und Keramikherstellung
+FR: Conducteurs d’installations de verrerie et de céramique"
+8182,26.0,"DE: Bediener von Dampfmaschinen und -kesseln
+FR: Chauffeurs de machines à vapeur et de chaudières"
+8183,27.0,"DE: Bediener von Verpackungs-, Abfüll- und Etikettiermaschinen
+FR: Conducteurs de machines d’emballage, d’embouteillage et d’étiquetage"
+8189,30.0,"DE: Bediener stationärer Anlagen und Maschinen, anderweitig nicht genannt
+FR: Conducteurs de machines et d’installations fixes non classés ailleurs"
+8200,29.0,"DE: Montageberufe
+FR: Ouvriers de l’assemblage"
+8210,29.0,"DE: Montageberufe
+FR: Ouvriers de l’assemblage"
+8211,33.0,"DE: Berufe der Montage von mechanischen Bauteilen
+FR: Monteurs en construction mécanique"
+8212,27.0,"DE: Berufe der Montage von elektrischen und elektronischen Geräten
+FR: Monteurs d’appareils électriques et électroniques"
+8219,28.0,"DE: Montageberufe, anderweitig nicht genannt
+FR: Monteurs et assembleurs non classés ailleurs"
+8300,36.0,"DE: Fahrzeugführer und Bediener mobiler Anlagen
+FR: Conducteurs de véhicules et d’engins lourds de levage et de manœuvre"
+8310,44.0,"DE: Lokomotivführer und verwandte Berufe
+FR: Conducteurs de locomotives et assimilés"
+8311,52.0,"DE: Lokomotivführer
+FR: Conducteurs de locomotives"
+8312,35.0,"DE: Bediener von Sicherungs-, Signal- und Leittechnik im Schienennetzbetrieb
+FR: Serre-freins, aiguilleurs et agents de manœuvre"
+8320,36.0,"DE: Kraftfahrzeugführer
+FR: Conducteurs d’automobiles, de camionnettes et de motocycles"
+8321,33.0,"DE: Kraftradfahrer
+FR: Conducteurs de motocycles"
+8322,36.0,"DE: Personenkraftwagen-, Taxi-, Kleintransporter- und Kleinbusfahrer
+FR: Chauffeurs de taxi et conducteurs d’automobiles et de camionnettes"
+8330,36.0,"DE: Fahrer schwerer Lastkraftwagen und Busse
+FR: Conducteurs de poids lourds et d’autobus"
+8331,37.0,"DE: Busfahrer und Straßenbahnführer
+FR: Conducteurs d’autobus et de tramways"
+8332,36.0,"DE: Fahrer schwerer Lastkraftwagen
+FR: Conducteurs de poids lourds et de camions"
+8340,31.0,"DE: Bediener mobiler Anlagen
+FR: Conducteurs de matériels et engins mobiles"
+8341,22.0,"DE: Führer von mobilen land- und forstwirtschaftlichen Maschinen
+FR: Conducteurs d’engins mobiles agricoles et forestiers"
+8342,35.0,"DE: Führer von Erdbewegungs- und verwandten Maschinen
+FR: Conducteurs d’engins de terrassement et de matériels similaires"
+8343,35.0,"DE: Kranführer, Aufzugmaschinisten und Bediener verwandter Hebeeinrichtungen
+FR: Conducteurs de grues, d’engins de levage divers et de matériels similaires"
+8344,29.0,"DE: Gabelstaplerfahrer und verwandte Berufe
+FR: Conducteurs de chariots élévateurs"
+8350,44.0,"DE: Deckspersonal auf Schiffen und verwandte Berufe
+FR: Matelots de pont et assimilés"
+9000,20.0,"DE: Hilfsarbeitskräfte
+FR: Professions élémentaires"
+9100,17.0,"DE: Reinigungspersonal und Hilfskräfte
+FR: Aides de ménage"
+9110,17.0,"DE: Reinigungspersonal und Hilfskräfte in Privathaushalten, Hotels und Büros
+FR: Aides de ménage et agents d’entretien à domicile et dans les hôtels et bureaux"
+9111,17.0,"DE: Reinigungspersonal und Hilfskräfte in Privathaushalten
+FR: Aides de ménage à domicile"
+9112,16.0,"DE: Reinigungspersonal und Hilfskräfte in Büros, Hotels und anderen Einrichtungen
+FR: Agents d’entretien dans les bureaux, les hôtels et autres établissements"
+9120,20.0,"DE: Reinigungspersonal für Fahrzeuge, Fenster, Wäsche und sonstige manuelle Reinigungsberufe
+FR: Laveurs de véhicules et de vitres, laveurs de linge et autres nettoyeurs manuels"
+9121,19.0,"DE: Handwäscher und Handbügler
+FR: Laveurs et repasseurs de linge à la main"
+9122,20.0,"DE: Fahrzeugreiniger
+FR: Laveurs de véhicules"
+9123,20.0,"DE: Fensterputzer
+FR: Laveurs de vitres"
+9129,20.0,"DE: Sonstiges Reinigungspersonal
+FR: Autres nettoyeurs"
+9200,14.0,"DE: Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+FR: Manœuvres de l’agriculture, de la pêche et de la sylviculture"
+9210,15.0,"DE: Hilfsarbeiter in der Land- und Forstwirtschaft und Fischerei
+FR: Manœuvres de l’agriculture, de la pêche et de la sylviculture"
+9211,16.0,"DE: Hilfsarbeiter im Ackerbau
+FR: Manœuvres de l’agriculture"
+9212,20.0,"DE: Hilfsarbeiter in der Tierhaltung
+FR: Manœuvres de l’élevage"
+9213,18.0,"DE: Hilfsarbeiter in Ackerbau und Tierhaltung (ohne ausgeprägten Schwerpunkt)
+FR: Manœuvres de l’agriculture et de l’élevage"
+9214,16.0,"DE: Hilfsarbeiter im Gartenbau
+FR: Manœuvres, cultures maraîchères et horticulture"
+9215,19.0,"DE: Hilfsarbeiter in der Forstwirtschaft
+FR: Manœuvres forestiers"
+9216,19.0,"DE: Hilfsarbeiter in der Fischerei und Aquakultur
+FR: Manœuvres pêcheurs et aquaculteurs"
+9300,24.0,"DE: Hilfsarbeiter im Bergbau, im Bau, bei der Herstellung von Waren und im Transportwesen
+FR: Manœuvres des mines, du bâtiment et des travaux publics, des industries manufacturières et des transports"
+9310,22.0,"DE: Hilfsarbeiter im Bergbau und im Bau
+FR: Manœuvres des mines, du bâtiment et des travaux publics"
+9311,24.0,"DE: Hilfsarbeiter im Bergbau und in der Gewinnung von Steinen und Erden
+FR: Manœuvres des mines et des carrières"
+9312,23.0,"DE: Hilfsarbeiter im Tiefbau
+FR: Manœuvres de chantier de travaux publics"
+9313,22.0,"DE: Hilfsarbeiter im Hochbau
+FR: Manœuvres du bâtiment"
+9320,23.0,"DE: Hilfsarbeiter bei der Herstellung von Waren
+FR: Manœuvres des industries manufacturières"
+9321,23.0,"DE: Verpacker
+FR: Emballeurs à la main et autres manœuvres des industries manufacturières"
+9329,21.0,"DE: Hilfsarbeiter bei der Herstellung von Waren, anderweitig nicht genannt
+FR: Manœuvres des industries manufacturières non classés ailleurs"
+9330,27.0,"DE: Hilfsarbeiter in Transport und Lagerei
+FR: Manœuvres des transports et de l’entreposage"
+9331,21.0,"DE: Führer von Handwagen und pedalbetriebenen Fahrzeugen
+FR: Conducteurs de véhicules à bras et à pédales"
+9332,31.0,"DE: Führer von Fahrzeugen und Maschinen mit Zugtierantrieb
+FR: Conducteurs de véhicules et de machines à traction animale"
+9333,28.0,"DE: Frachtarbeiter und verwandte Berufe
+FR: Manutentionnaires"
+9334,20.0,"DE: Regalbetreuer und -auffüller
+FR: Garnisseurs de rayons"
+9400,15.0,"DE: Hilfskräfte in der Nahrungsmittelzubereitung
+FR: Assistants de fabrication de l’alimentation"
+9410,15.0,"DE: Hilfskräfte in der Nahrungsmittelzubereitung
+FR: Assistants de fabrication de l’alimentation"
+9411,20.0,"DE: Zubereiter von Fast Food und anderen Imbissen
+FR: Cuisiniers, restauration rapide"
+9412,10.0,"DE: Küchenhilfen
+FR: Aides de cuisine"
+9500,25.0,"DE: Straßenhändler und auf der Straße arbeitende Dienstleistungskräfte
+FR: Vendeurs ambulants et autres travailleurs des petits métiers des rues et assimilés"
+9510,22.0,"DE: Auf der Straße arbeitende Dienstleistungskräfte und verwandte Berufe
+FR: Travailleurs des petits métiers des rues et assimilés"
+9520,26.0,"DE: Straßenverkäufer (ohne Lebensmittel)
+FR: Vendeurs ambulants (à l’exception de l’alimentation)"
+9600,26.0,"DE: Abfallentsorgungsarbeiter und sonstige Hilfsarbeitskräfte
+FR: Éboueurs et autres travailleurs non qualifiés"
+9610,17.0,"DE: Abfallentsorgungsarbeiter
+FR: Éboueurs"
+9611,18.0,"DE: Arbeiter in der Abfall- und Wertstoffsammlung
+FR: Manœuvres, enlèvement des ordures et matériel recyclable"
+9612,17.0,"DE: Arbeiter in der Abfallsortierung
+FR: Trieurs de déchets"
+9613,17.0,"DE: Straßenkehrer und verwandte Berufe
+FR: Balayeurs et manœuvres assimilés"
+9620,29.0,"DE: Sonstige Hilfsarbeitskräfte
+FR: Autres professions élémentaires"
+9621,30.0,"DE: Boten, Paketauslieferer und Gepäckträger
+FR: Messagers, porteurs de bagages et livreurs de colis"
+9622,20.0,"DE: Gelegenheitsarbeiter
+FR: Manœuvres polyvalents"
+9623,34.0,"DE: Zählerableser, Automatenbefüller und -kassierer
+FR: Encaisseurs de distributeurs automatiques à prépaiement et releveurs de compteurs"
+9624,20.0,"DE: Wasserträger und Brennholzsammler
+FR: Porteurs d’eau et ramasseurs de bois de feu"
+9629,20.0,"DE: Hilfsarbeitskräfte, anderweitig nicht genannt
+FR: Professions élémentaires non classées ailleurs"
+9998,,"DE: FLAGGED FOR CHECKING
+FR: FLAGGED FOR CHECKING"
+9999,,"DE: NOT CODABLE
+FR: NOT CODABLE"
